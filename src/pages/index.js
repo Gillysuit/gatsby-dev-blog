@@ -12,7 +12,7 @@ const IndexPage = ({ data }) => (
     <SEO title="Home" />
     <IndexPageStyles>
       <p>
-        I’m Wilhelm. I run Devsmith, a sales and customer service immersive
+        I’m gil. I run Devsmith, a sales and customer service immersive
         based in Bolivia. I am originally from Germany and now live in Beijing.
       </p>
       <p>
