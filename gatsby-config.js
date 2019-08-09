@@ -2,9 +2,9 @@ require('dotenv').config();
 
 module.exports = {
   siteMetadata: {
-    title: `Wilhelm Sentence`,
+    title: `Gilbert Ramirez`,
     description: `Developer blog written in GatsbyJS`,
-    author: `__EDIT__YOUR_NAME_HERE`,
+    author: `Gilbert Ramirez`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

@@ -27,7 +27,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <Header siteTitle={data.site.siteMetadata.title} />  {/*query data site from gatsby config*/}
       <GlobalStyle />
       <LayoutStyles>
         <main>{children}</main>
